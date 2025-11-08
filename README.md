@@ -1,1 +1,3 @@
-# arbipay
+# Arbipay
+
+Payment system through Arbitrum One.
